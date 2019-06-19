@@ -1,7 +1,7 @@
 # coding: latin-1
 
 """
-About: This program shows you IMSI , TMSI, LAC, CI of cellphones around you.
+About: This program shows you sender number , receiver number, sms text, sending time of cellphones around you.
 
 Disclaimer:-
 This program was made to understand how GSM network works. Not for bad hacking !
