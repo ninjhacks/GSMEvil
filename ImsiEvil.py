@@ -127,7 +127,7 @@ if __name__ == "__main__":
 	parser.add_option("-i", "--iface", dest="iface", default="lo", help="Interface (default : lo)")
 	parser.add_option("-p", "--port", dest="port", default="4729", type="int", help="Port (default : 4729)")    
 	parser.add_option("-m", "--imsi", dest="imsi", default="", type="string", help='IMSI to track (default : None, Example: 123456789101112)')
-	parser.add_option("-s", "--save", dest="save", default=None, type="string", help="Save all text messages to sqlite file. (default : None)")
+	parser.add_option("-s", "--save", dest="save", default=None, type="string", help="Save all imsi numbers to sqlite file. (default : None)")
 	(options, args) = parser.parse_args()
 
 try:
