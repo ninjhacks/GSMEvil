@@ -1,6 +1,6 @@
 
   <p align="center">
-    <img alt="GSMEVIL Title" src="https://raw.githubusercontent.com/sharyer/GSMEvil/master/img/logo.png" height="60" />
+    <img alt="GSMEVIL Title" src="https://raw.githubusercontent.com/sharyer/GSMEvil/master/img/logo.png" height="200" />
   </p>
 
 **GSMEVIL** is python based tool which use for capturing imsi numbers and sms and also you able to customize your capturing and it's make easy to capture sms and imsi numbers for those who not have much knowledge about gsm packets capturing.
