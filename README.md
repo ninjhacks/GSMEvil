@@ -143,4 +143,4 @@ Bitcoin : 17i3fuRvPB6RyugCwFW79zvGoZdNTjyQxJ
 Youtube : https://www.youtube.com/DigitalHackerOfficial  
 Email : digitalhacker07@gmail.com  
 Facebook : https://www.facebook.com/DigitalHackerOfficial  
-Twitter : @SheryarNinjhack  
+Twitter : https://twitter.com/SheryarNinjhack 
