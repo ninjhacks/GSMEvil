@@ -14,14 +14,14 @@ We are not responsible for any illegal activity !
 Install GSMEvil :
 ```
 git clone https://github.com/sharyer/GSMEvil.git
-sudo apt install python-pyshark
+sudo apt-get install python-pyshark
 ```
 
 Install Gr GSM :  ( For receiving GSM transmissions )
 ```
 sudo add-apt-repository -y ppa:ptrkrysik/gr-gsm
-sudo apt update
-sudo apt install gr-gsm
+sudo apt-get update
+sudo apt-get install gr-gsm
 ```
 
 If gr-gsm failled to setup. Than follow those this : https://github.com/ptrkrysik/gr-gsm/wiki/Installation  
